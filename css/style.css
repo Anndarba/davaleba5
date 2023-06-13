@@ -1,0 +1,206 @@
+body{
+	margin: 54px 52px;
+}
+
+header{
+	display: inline-block;
+}
+.logo{
+	vertical-align: middle;
+	margin-right: 87px;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+	font-weight: 700;
+}
+li{
+	display: inline-block;
+	margin-right: 87px;
+	font-size: 26px;
+}
+a{
+	color: #8D81FF;
+}	
+.mtavari{
+	color: #4E6FAE;
+}
+.mtavari:hover{
+	color: aquamarine;
+}
+.box{
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	margin-top: 44px;
+	
+}
+.date, .date2{
+	color: #84FF81;
+	font-size: 24px;
+	margin: 8px 11px;
+	line-height: 50px;
+}
+.month{
+	font-size: 32px;
+	font-style: italic;
+	margin-top: 18px;
+	color: #8D81FF;
+}
+.content{
+	font-size: 20px;
+	margin-top: 8px;
+	color: #4E6FAE;
+}
+p{
+	font-family: 'GL Kirovi';
+}
+.meta{
+	margin-top: 13px;
+}
+.peebi, .pbox2{
+	font-size: 16px;
+	width: 778px;
+	height: 353px;
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 66px;
+	margin-top: 14px;
+}
+.pirvelipe{
+	font-family: "BPG Square", sans-serif;
+}
+.pbox2{
+	font-family: "BPG LE Studio 02", sans-serif;
+}
+.pbox3{
+	font-family: "DejaVu Sans Condensed", sans-serif;
+}
+.date2{
+	margin-top: 155px;
+}
+.pbox3{
+	margin-top: 32px;
+	color: #4E6FAE;
+	width: 1021px;
+	height: 148px;
+}
+footer{
+	margin-top: 143px;
+}
+.line, .yt{
+	margin-left: 43px;
+}
+.html{
+	margin-top: 97px;
+}
+.meore{
+	color: #4E6FAE;
+	font-size: 26px;
+	line-height: 31px;
+	font-weight: 700;
+	display: inline-block;
+	margin-left: 380px;
+	margin-top: 120px;
+}
+.laini{
+ 	border: 1px solid #5012D5;	
+ 	width: 24px;
+ 	rotate: 90deg;
+ 	display: inline-block;
+ 	vertical-align: middle;
+}
+.damatebit{
+	display: inline-block;
+	color: #4E6FAE;
+	font-size: 26px;
+}
+.grei2,.grei1{
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	vertical-align: middle;
+}
+.grei2{
+	display: inline-block;
+}
+.grei1{
+	margin-right: 52px;
+	display: inline-block;
+	margin-left: 380px;
+}
+.charcho{
+	margin-top: 26px;
+}
+.satauri1{
+	color: #3F4145;
+	font-size: 20px;
+	margin-top: 29px;
+	margin-left: 23px;
+}
+.pirv1{
+	vertical-align: middle;
+	margin-left: 36px;
+	display: inline-block;
+	padding-top: 30px;
+	vertical-align: top;
+}
+.pirv2{
+	vertical-align: middle;
+	margin-left: 38px;
+	margin-top: 24px;
+	display: inline-block;
+	margin-bottom: 22px;
+}
+.info1, .info2{
+	display: inline-block;
+	color: #7E8898;
+	margin-left: 19px;
+	width: 335px;
+	height: 95px
+}
+.info1{
+	margin-top: 21px;
+}
+.info2{
+	margin-top: 24px;
+}
+.charchosi{
+	margin-left: 380px;
+	margin-top: 91px;
+}
+.line{
+	margin-left: 41px;
+}
+.bolo{
+	margin-left: 384px;
+	margin-top: 91px;
+}
+h5{
+	font-size: 36px;
+	color: #4E6FAE;
+	margin-left: 162px;
+	display: inline-block;
+	margin-top: 123px;
+	margin-bottom: 27px;
+}
+span{
+	color: #7E8898;
+	margin-left: 162px;
+	font-size: 20px;
+	display: inline-block;
+}
+.map{
+	width: 780px;
+	margin-left: 700px;
+	vertical-align: middle;
+	margin-bottom: 93px;
+}
+.misamarti{
+	line-height: 19px;
+}
+.rukischasagdebi{
+	background-color: #E7E7E7;
+	margin-top: 31px;
+}
